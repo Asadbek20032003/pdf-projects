@@ -1,0 +1,10 @@
+.public_container {
+  min-height: 100vh;
+  display: flex;
+  width: 100 vw;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-left: 100px;
+  background-color: rgba(186, 185, 179, 0.1);
+}
